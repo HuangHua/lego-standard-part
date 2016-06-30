@@ -1,0 +1,12 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"B8466D8F-9C52-4F88-8D2C-95331A15848B",
+	"author":	"huanghua",
+	"description":	{
+		"":	"Make LEGO style building block."
+	},
+	"version":	"0.0.1",
+	"runOnStartup":	true,
+	"supportedOS":	"windows|mac"
+}

@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"huanghua",
+	"description":	{
+		"":	"Make LEGO style building block based on a json file."
+	},
+	"version":	"0.0.1",
+	"supportedOS":	"windows|mac"
+}

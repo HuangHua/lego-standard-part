@@ -1,0 +1,42 @@
+[
+    {"lCount":1, "wCount":1, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":1, "wCount":1, "hCount":2, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":1, "wCount":1, "hCount":3, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":1, "wCount":1, "hCount":6, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+
+    {"lCount":2, "wCount":1, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":2, "wCount":1, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":1},
+    {"lCount":2, "wCount":1, "hCount":3, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":2, "wCount":1, "hCount":6, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":2, "wCount":2, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":2, "wCount":2, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":1},
+
+    {"lCount":3, "wCount":1, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":3, "wCount":1, "hCount":3, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":3, "wCount":2, "hCount":3, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+
+    {"lCount":4, "wCount":1, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":4, "wCount":1, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":1},
+    {"lCount":4, "wCount":1, "hCount":3, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":4, "wCount":2, "hCount":3, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":4, "wCount":4, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    
+    {"lCount":6, "wCount":1, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":6, "wCount":1, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":1},
+    {"lCount":6, "wCount":1, "hCount":3, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":6, "wCount":2, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":6, "wCount":4, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+
+    {"lCount":8, "wCount":1, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":8, "wCount":1, "hCount":3, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":8, "wCount":2, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":8, "wCount":5, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":8, "wCount":6, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":8, "wCount":8, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+
+    {"lCount":10, "wCount":2, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+    {"lCount":10, "wCount":6, "hCount":1, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0},
+
+    {"lCount":12, "wCount":1, "hCount":3, "heightUnit":0.3, "lengthUnit":0.75,"plateThickness":0.12,"isFlat":0}
+
+]
